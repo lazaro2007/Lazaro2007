@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 💔
 
-<!--
-**lazaro2007/Lazaro2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nomee lazaro marques 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar em contato comigo 📫
+
+  00001123196801sp@al.educacao.sp.gov.br
+
+
+  ![](https://media1.tenor.com/m/HAFJyak-uJ0AAAAC/i-love-you-love.gif)
